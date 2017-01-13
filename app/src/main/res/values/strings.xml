@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica</string>
+    <string name="LblOperacion">Operació: </string>
+    <string name="LblResultat">Resultat: </string>
+</resources>
